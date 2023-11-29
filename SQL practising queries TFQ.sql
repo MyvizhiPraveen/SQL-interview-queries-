@@ -53,7 +53,7 @@ on p.id = c.position_id and p.totalpost = c.rn
 order by p.groupsid;
 
 
--- top 10 sql queries fro interview
+-- top 10 sql queries from interview
 -- Q1: Delete duplicate data --
 drop table if exists cars;
 create table cars
